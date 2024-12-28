@@ -15,6 +15,13 @@ print(type(a));
 print(type(b));
 
 
+karan="i love you kirti"
+kirti="you"
+print(karan,"sorry karan i don't love",kirti)
+
+
+print(type(karan))
+
 a=20
 name="karanbaiande"
 per=85.43

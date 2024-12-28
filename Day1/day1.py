@@ -26,4 +26,4 @@
 # You can easily fork this repl and continue learning in your own style. Video, code as well as text tutorial on the same page which makes things easy!
 # For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.
 
-print("hello todya's1st day of python language");
+print("hello python its' my first program")
